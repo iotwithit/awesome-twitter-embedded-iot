@@ -9,9 +9,9 @@
 
 Isn't the goal of Twitter spreading information to keep you up to date? :telescope:
 
-I will try to update this list daily with accounts whose tweets I retweet and comment [here](https://twitter.com/iotwithit).
+Even with technical news and insights about Embedded Systems and IoT: I will try to update this list daily with accounts whose tweets I retweet and comment [here](https://twitter.com/iotwithit).
 
-And you should know, Twitter is [the secret hacker forum](https://www.youtube.com/watch?v=VCwiZ2dh17Q).
+You should know, Twitter is [the secret hacker forum](https://www.youtube.com/watch?v=VCwiZ2dh17Q).
 
 
 ## Contents
