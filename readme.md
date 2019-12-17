@@ -22,7 +22,7 @@ You should know, Twitter is [the secret hacker forum](https://www.youtube.com/wa
 
 ## People
 
-- [Lup Yuen Lee](https://twitter.com/MisterTechBlog) - Techie and Educator in IoT
+- [Lup Yuen Lee](https://twitter.com/MisterTechBlog) - Techie and Educator in IoT.
 
 ## Companies and Foundations
 
@@ -30,7 +30,7 @@ You should know, Twitter is [the secret hacker forum](https://www.youtube.com/wa
 
 ## Magazines and Others
 
-- 
+- [Electronic Design](https://twitter.com/ElectronicDesgn) - Source for emerging technologies for design solutions.
 
 ## Contribute
 
