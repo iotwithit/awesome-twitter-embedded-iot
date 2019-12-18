@@ -26,7 +26,7 @@ You should know, Twitter is [the secret hacker forum](https://www.youtube.com/wa
 
 ## Companies and Foundations
 
--
+- [Nordic Semiconductor](https://twitter.com/NordicTweets) - Short range wireless and low power cellular IoT specialist.
 
 ## Magazines and Others
 
