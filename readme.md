@@ -23,6 +23,7 @@ You should know, Twitter is [the secret hacker forum](https://www.youtube.com/wa
 ## People
 
 - [Lup Yuen Lee](https://twitter.com/MisterTechBlog) - Techie and Educator in IoT.
+- [Mohammad Afaneh](https://twitter.com/m_afaneh) - BLE Developer, Educator and Author.
 
 ## Companies and Foundations
 
