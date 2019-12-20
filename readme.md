@@ -32,6 +32,7 @@ You should know, Twitter is [the secret hacker forum](https://www.youtube.com/wa
 ## Magazines and Others
 
 - [Electronic Design](https://twitter.com/ElectronicDesgn) - Source for emerging technologies for design solutions.
+- [Embedded Computing Design](https://twitter.com/embedded_comp) - Blogs, news & articles on IIoT, IoT, automotive.
 
 ## Contribute
 
